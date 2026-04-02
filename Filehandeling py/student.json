@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Varad Bidwai",
+        "Batch": "B",
+        "Marks": "12"
+    },
+
+        {
+            "name": "Krish chitkara",
+            "Batch": "B",
+            "Marks": "12"
+        },
+
+        { 
+            "name": "Paree bachate",
+            "Batch": "B",
+            "Marks": "12"
+        }
+]
